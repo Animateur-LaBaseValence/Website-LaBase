@@ -11,17 +11,17 @@
 title: "La B@se, formations solidaires"
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'L'Espace Public Numérique de Valence'
+slogan: "L'Espace Public Numérique de Valence"
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'La Base, formations solidaires est un Espace Public Numérique sous forme associative, situé en centre-ville de Valence, dans la Drôme, France.'
+description: "La B@se, formations solidaires est un Espace Public Numérique sous forme associative, situé en centre-ville de Valence, dans la Drôme, France."
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: 'Site crée par La Base, basé sur le thème <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> <p>Crée avec &hearts; par <a href="http://phlow.de/">Phlow</a> avec <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>, hébergé par <a href="http://pages.github.com/" target="_blank">GitHub Pages</a>.</p>'
+credits: 'Site crée par La B@se, basé sur le thème <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> <p>Crée avec &hearts; par <a href="http://phlow.de/">Phlow</a> avec <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>, hébergé par <a href="http://pages.github.com/" target="_blank">GitHub Pages</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
-author: 'La B@se'
+author: "La B@se"
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
