@@ -17,7 +17,7 @@ slogan: "L'Espace Public Numérique de Valence"
 description: "La B@se, formations solidaires est un Espace Public Numérique sous forme associative, situé en centre-ville de Valence, dans la Drôme, France."
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: 'Site crée par La B@se, basé sur le thème <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> <p>Crée avec &hearts; par <a href="http://phlow.de/">Phlow</a> avec <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>, hébergé par <a href="http://pages.github.com/" target="_blank">GitHub Pages</a>.</p>'
+credits: 'Site crée par La B@se, basé sur le thème <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>, Crée avec &hearts; par <a href="http://phlow.de/">Phlow</a> avec <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>, hébergé par <a href="http://pages.github.com/" target="_blank">GitHub Pages</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
@@ -25,12 +25,12 @@ author: "La B@se"
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://labase-valence.fr'
+url: 'https://animateur-labasevalence.github.io'
 baseurl: '/Website-LaBase'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+improve_content: https://github.com/Animateur-LaBaseValence/Website-LaBase/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -38,7 +38,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://Animateur-LaBaseValence.github.io/Website-LaBase/images/'
+urlimg: 'https://animateur-labasevalence.github.io/Website-LaBase/images/'
 
 
 # Logo size is 600x80 pixels
@@ -111,7 +111,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: "La B@se"     # Default author for pages
   -
     scope:
       path: ''
@@ -120,7 +120,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: "La B@se"     # Default author for posts
 
 
 
