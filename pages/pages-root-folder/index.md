@@ -8,15 +8,15 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Nôtre EPI ?"
-  url: '/pages/Notre-EPI/'
+  title: "Blog & Portfolio"
+  url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: widget-1-302x182.jpg
-  text: "La B@se est un Espace Public Numérique créé par l’association Cyber Emploi Drôme Ardèche et situé en centre-ville à Valence. Nous faisons aussi partie du réseau Cyberbase. Nous essayons de contribuer à la réduction de le « fracture numérique » en aidant les personnes les + éloignées de l’usage de ces technologies pour diverses raisons notamment financières, à se les approprier."
+  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
 widget2:
-  title: "Espace Public Internet ?"
-  url: '/pages/Espace-Public-Internet/'
-  text: "Les EPI (Espaces Publics Internet) sont vos espaces d’accès et de sensibilisation aux usages numériques. Initiez-vous aux outils informatiques, connectez-vous à Internet, découvrez les possibilités que vous offre le numérique, quels que soient vos besoins et envies. Les EPI, ce sont aussi des espaces de vie, favorisant le rapprochement et l’échange, la découverte et les connaissances…"
-  image: widget-1-302x182.jpg
+  title: "Why use this theme?"
+  url: 'http://phlow.github.io/feeling-responsive/info/'
+  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Download Theme"
   url: 'https://github.com/Phlow/feeling-responsive'
