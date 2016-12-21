@@ -15,8 +15,8 @@ widget1:
 widget2:
   title: "Espace Public Internet ?"
   url: 'pages/Espace-Public-Internet/'
+  image: widget-2-302x182.jpg
   text: 'Les EPI (Espaces Publics Internet) sont vos espaces d’accès et de sensibilisation aux usages numériques. Initiez-vous aux outils informatiques, connectez-vous à Internet, découvrez les possibilités que vous offre le numérique, quels que soient vos besoins et envies. Les EPI, ce sont aussi des espaces de vie, favorisant le rapprochement et l’échange, la découverte et les connaissances…'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Page Facebook"
   url: 'http://www.facebook.com/EPN-La-Base-Formations-Solidaires-386282618245673'
