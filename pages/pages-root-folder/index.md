@@ -14,8 +14,8 @@ widget1:
   text: 'La B@se est un Espace Public Numérique créé par l’association Cyber Emploi Drôme Ardèche et situé en centre-ville à Valence. Nous faisons aussi partie du réseau Cyberbase. Nous essayons de contribuer à la réduction de le « fracture numérique » en aidant les personnes les + éloignées de l’usage de ces technologies pour diverses raisons notamment financières, à se les approprier.'
 widget2:
   title: "Espace Public Internet ?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  url: 'pages/Espace-Public-Internet/'
+  text: 'Les EPI (Espaces Publics Internet) sont vos espaces d’accès et de sensibilisation aux usages numériques. Initiez-vous aux outils informatiques, connectez-vous à Internet, découvrez les possibilités que vous offre le numérique, quels que soient vos besoins et envies. Les EPI, ce sont aussi des espaces de vie, favorisant le rapprochement et l’échange, la découverte et les connaissances…'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Page Facebook"
