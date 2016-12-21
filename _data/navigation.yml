@@ -24,6 +24,10 @@
   url: "/pages/Partenaires/"
   side: left
 
+- title: "Infos Pratiques"
+  url: "/pages/Infos-Pratiques/"
+  side: left
+
 - title: "Contact"
   url: "/contact/"
   side: left
