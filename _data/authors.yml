@@ -9,5 +9,6 @@ phlow: # replace this with your info
   name: "La B@se"
   siterole: "webmaster, developer, copywriter, designer"
   uri: http://labase-valence.fr/
-  email: "labase.valence@gmail.com"
+  email: labase.valence@gmail.com
+#  twitter: "@phlow"
 # you can add more authors here
