@@ -23,10 +23,10 @@
 #  class: icon-googleplus
 #  title: "YouTube Google+"
 
-#- name: Facebook
-#   url: "http://www.facebook.com/EPN-La-Base-Formations-Solidaires-386282618245673/"
-#   class: icon-facebook
-#   title: "Page Facebook"
+- name: Facebook
+   url: "http://www.facebook.com/EPN-La-Base-Formations-Solidaires-386282618245673"
+   class: icon-facebook
+   title: "Page Facebook"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
