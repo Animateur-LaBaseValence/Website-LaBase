@@ -3,6 +3,11 @@
   class: icon-github
   title: "Profil GitHub"
 
+- name: Facebook
+   url: "http://www.facebook.com/EPN-La-Base-Formations-Solidaires-386282618245673"
+   class: icon-facebook
+   title: "Page Facebook"
+
 #- name: YouTube
 #  url: http://www.youtube.com/PhlowMedia
 #  class: icon-youtube
@@ -22,11 +27,6 @@
 #  url: https://plus.google.com/u/0/+Phlow
 #  class: icon-googleplus
 #  title: "YouTube Google+"
-
-- name: Facebook
-   url: "http://www.facebook.com/EPN-La-Base-Formations-Solidaires-386282618245673"
-   class: icon-facebook
-   title: "Page Facebook"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
