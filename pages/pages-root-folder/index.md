@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+#  image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Nôtre EPI"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
