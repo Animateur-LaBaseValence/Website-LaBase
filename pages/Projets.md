@@ -1,6 +1,8 @@
 En projet :
 -----------
 
+
+
 **1) Exposition Itinérante d’art numérique dans les EPI de la Drôme puis les EPN de Rhône Alpes :**
 
 EXPEX pour EXpositions EXpress ou speed shows pour les anglophiles. Il s’agit de sélectionner les œuvres de 6 à 8 artistes utilisant le numérique (art numérique, web art) pour s’exprimer; nous choisirons en priorité des artistes résidant ou originaires de la Drôme/Ardèche ou de la Région.
