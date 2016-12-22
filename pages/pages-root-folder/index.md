@@ -38,9 +38,6 @@ widget3:
 #  text: Inform me about new updates and features ›
 #  style: alert
 permalink: /index.html
-text: "> La B@se vous souhaite d'excellentes fêtes de fin d'année !
-
- >Nous seront fermés à partir du jeudi 22 décembre 2016 au soir, et rouvrirons nos portes le mardi 3 janvier 2017, à bientôt :-)"
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
