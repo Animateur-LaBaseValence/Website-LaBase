@@ -22,10 +22,6 @@ widget3:
   url: 'http://www.facebook.com/EPN-La-Base-Formations-Solidaires-386282618245673'
 #  image: widget-github-303x182.jpg
   text: '<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FEPN-La-Base-Formations-Solidaires-386282618245673&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>'
-  
-  text: "> La B@se vous souhaite d'excellentes fêtes de fin d'année !
-
- >Nous seront fermés à partir du jeudi 22 décembre 2016 au soir, et rouvrirons nos portes le mardi 3 janvier 2017, à bientôt :-)"
 
 #
 # Use the call for action to show a button on the frontpage
@@ -42,6 +38,9 @@ widget3:
 #  text: Inform me about new updates and features ›
 #  style: alert
 permalink: /index.html
+text: "> La B@se vous souhaite d'excellentes fêtes de fin d'année !
+
+ >Nous seront fermés à partir du jeudi 22 décembre 2016 au soir, et rouvrirons nos portes le mardi 3 janvier 2017, à bientôt :-)"
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
