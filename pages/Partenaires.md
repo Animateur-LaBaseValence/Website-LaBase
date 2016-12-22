@@ -6,7 +6,7 @@ Institution financière publique, la Caisse des Dépôts est au service de l’i
 
 Leur site web : [http://www.dent.caissedesdepots.fr/](http://www.dent.caissedesdepots.fr/)
 
-![Logo de l'Europe](/images/logos/logo-europe.JPG)
+![Logo de l'Europe](/images/logos/logo-europe.jpg)
 
 L’Europe
 -----------
@@ -14,7 +14,7 @@ Europe en France , portail des Fonds européens en France, est un site de la Dé
 
 Leur site web : [http://www.europe-en-france.gouv.fr/](http://www.europe-en-france.gouv.fr/)
 
-![Logo de VALDAC](/images/logos/logo-valdac.JPG)
+![Logo de VALDAC](/images/logos/logo-valdac.jpg)
 
 VALDAC
 -----------
@@ -22,7 +22,7 @@ Les communes du territoire Valence-Drôme-Ardèche-Centre se sont engagées dans
 
 Leur site web : [http://www.valdac.fr/fr/index.asp](http://www.valdac.fr/fr/index.asp)
 
-![Logo de la La Drôme - Le Département](/images/logos/logo-drome1.JPG)
+![Logo de la La Drôme - Le Département](/images/logos/logo-drome1.jpg)
 
 La Drôme - Le Département
 -----------
@@ -31,7 +31,7 @@ Le département de la Drôme mène une politique forte d’aide aux territoires 
 
 Leur site web : [http://www.ladrome.fr/](http://www.ladrome.fr/)
 
-![Logo de Valence Ville](/images/logos/logo-valence.JPG)
+![Logo de Valence Ville](/images/logos/logo-valence.jpg)
 
 Valence Ville
 -----------
@@ -39,7 +39,7 @@ Valence est une ville française, située dans le département de la Drôme et l
 
 Leur site web : [http://www.valence.fr/](http://www.valence.fr/)
 
-![Logo de la Région Rhône-Alpes](/images/logos/logo-region-Rhone-Alpes.JPG)
+![Logo de la Région Rhône-Alpes](/images/logos/logo-region-Rhone-Alpes.jpg)
 
 Région Rhône-Alpes
 -----------
@@ -48,7 +48,7 @@ Rhône-Alpes est une des régions à plus fort taux de natalité en Europe et so
 
 Leur site web : [http://www.rhonealpes.fr/1-region-rhone-alpes.htm](http://www.rhonealpes.fr/1-region-rhone-alpes.htm)
 
-![Logo de l'APF](/images/logos/logo-apf.JPG)
+![Logo de l'APF](/images/logos/logo-apf.PNG)
  
 APF - Association des Paralysés de France
 -----------
@@ -59,7 +59,7 @@ L’Association des Paralysés de France est une association nationale dirigée 
 
 Leur site web : [http://www.apf.asso.fr/](http://www.apf.asso.fr/)
 
-![Logo d'EMMAÜS](/images/logos/logo-emmaus.JPG)
+![Logo d'EMMAÜS](/images/logos/logo-emmaus.jpg)
 
 EMMAÜS
 -----------
@@ -67,7 +67,7 @@ Hébergement et accompagnement social des sans-abri. EMMAÜS  Solidarité interv
 
 Leur site web : [http://www.association.emmaus.fr/](http://www.association.emmaus.fr/)
 
-![Logo du Diaconat Protestant](/images/logos/logo-diaconat.JPG)
+![Logo du Diaconat Protestant](/images/logos/logo-diaconat.gif)
 
 Diaconat Protestant
 -----------
@@ -75,7 +75,7 @@ Association loi 1901, à but non lucratif, le Diaconat Protestant a été créé
 
 Leur site web : [http://www.diaconat-valence.org/](http://www.diaconat-valence.org/)
 
-![Logo de l'Aide aux enfants d'Haïti](/images/logos/logo-aeh.JPG)
+![Logo de l'Aide aux enfants d'Haïti](/images/logos/logo-aeh.jpg)
 
 Aide aux enfants d'Haïti
 -----------
@@ -83,7 +83,7 @@ Nous travaillons en collaboration avec les associations haïtiennes que nous sou
 
 Leur site web : [http://www.aide-aux-enfants-haiti.org/](http://www.aide-aux-enfants-haiti.org/)
 
-![Logo du Pôle Numérique](/images/logos/logo-pole-numerique.JPG)
+![Logo du Pôle Numérique](/images/logos/logo-pole-numerique.png)
 
 Pôle Numérique
 -----------
@@ -98,7 +98,7 @@ Les actions du Pôle Numérique, effectuées en concertation avec les acteurs in
 
 Leur site web : [http://www.pole-numerique.fr/](http://www.pole-numerique.fr/)
 
-![Logo de l'Agence Mondiale de Solidarité Numérique](/images/logos/logo-amsn.JPG)
+![Logo de l'Agence Mondiale de Solidarité Numérique](/images/logos/logo-amsn.jpg)
 
 Agence Mondiale de Solidarité Numérique
 -----------
