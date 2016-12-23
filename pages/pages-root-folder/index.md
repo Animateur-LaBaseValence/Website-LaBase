@@ -8,7 +8,7 @@ layout: frontpage
 header:
 #  image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Nôtre EPI"
+  title: "Notre EPI"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: widget-1-302x182.jpg
   text: 'La B@se est un Espace Public Numérique créé par l’association Cyber Emploi Drôme Ardèche et situé en centre-ville à Valence. Nous faisons aussi partie du réseau Cyberbase. Nous essayons de contribuer à la réduction de le « fracture numérique » en aidant les personnes les + éloignées de l’usage de ces technologies pour diverses raisons notamment financières, à se les approprier.'
