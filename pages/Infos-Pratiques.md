@@ -1,3 +1,8 @@
+Nos Coordonnées :
+----------------------
+numéro de téléphone : 04, 26, 50, 59, 77
+adresse de courriel : labase.valence[arobase]gmail.com
+
 Horaires d'ouverture :
 ----------------------
 Nous sommes ouverts du lundi au vendredi, de 10h à 12h et de 14h à 18h.
