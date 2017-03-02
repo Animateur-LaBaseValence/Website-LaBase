@@ -19,7 +19,7 @@ widget2:
   text: 'Les EPI (Espaces Publics Internet) sont vos espaces d’accès et de sensibilisation aux usages numériques. Initiez-vous aux outils informatiques, connectez-vous à Internet, découvrez les possibilités que vous offre le numérique, quels que soient vos besoins et envies. Les EPI, ce sont aussi des espaces de vie, favorisant le rapprochement et l’échange, la découverte et les connaissances…'
 widget3:
   title: "Page Facebook"
-  url: 'http://www.facebook.com/EPN-La-Base-Formations-Solidaires-386282618245673'
+  url: 'facebook.com/epnlabasevalence'
 #  image: widget-github-303x182.jpg
   text: '<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FEPN-La-Base-Formations-Solidaires-386282618245673&tabs=timeline&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>'
 
