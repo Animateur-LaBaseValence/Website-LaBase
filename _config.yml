@@ -191,9 +191,9 @@ og_type:                            'website'
 #  Open _data/socialmedia.yml to adjust the left and right topbar navigation
 #
 
-#socialmedia:
+socialmedia:
 #    twitter: phlow
-    facebook: epnlabasevalence
+    facebook: "epnlabasevalence"
 
 
 #        ____  _
