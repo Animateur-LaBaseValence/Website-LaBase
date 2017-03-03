@@ -1,10 +1,10 @@
 - name: GitHub
-  url: "github.com/animateur-labasevalence"
+  url: http://github.com/animateur-labasevalence
   class: icon-github
   title: "Profil GitHub"
 
 - name: Facebook
-   url: "http://www.facebook.com/epnlabasevalence/"
+   url: http://www.facebook.com/epnlabasevalence/
    class: icon-facebook
    title: "Page Facebook"
 
