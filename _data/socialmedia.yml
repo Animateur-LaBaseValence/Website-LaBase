@@ -3,10 +3,10 @@
   class: icon-github
   title: "Profil GitHub"
 
-- name: Facebook
-   url: http://www.facebook.com/epnlabasevalence/
-   class: icon-facebook
-   title: "Page Facebook"
+#- name: Facebook
+#   url: http://www.facebook.com/epnlabasevalence/
+#   class: icon-facebook
+#   title: "Page Facebook"
 
 #- name: YouTube
 #  url: http://www.youtube.com/PhlowMedia
