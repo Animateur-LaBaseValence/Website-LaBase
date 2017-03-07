@@ -8,6 +8,10 @@
   url: "/pages/Infos-Pratiques/"
   title: "Infos Pratiques"
 
+- name: Facebook
+   url: "http://www.facebook.com/epnlabasevalence/"
+   title: "Page Facebook"
+
 #- name: "RSS"
 #  url: "/feed.xml"
 #  title: "Subscribe to RSS Feed"
