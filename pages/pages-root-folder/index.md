@@ -16,7 +16,7 @@ widget2:
   title: "Espace Public Numérique ?"
   url: '/pages/Espace-Public-Numerique/'
   image: widget-2-302x182.jpg
-  text: 'Les EPI (Espaces Publics Internet) sont vos espaces d’accès et de sensibilisation aux usages numériques. Initiez-vous aux outils informatiques, connectez-vous à Internet, découvrez les possibilités que vous offre le numérique, quels que soient vos besoins et envies. Les EPI, ce sont aussi des espaces de vie, favorisant le rapprochement et l’échange, la découverte et les connaissances…'
+  text: 'Les EPN (Espace Public Numérique) sont vos espaces d’accès et de sensibilisation aux usages numériques. Initiez-vous aux outils informatiques, connectez-vous à Internet, découvrez les possibilités que vous offre le numérique, quels que soient vos besoins et envies. Les EPN, ce sont aussi des espaces de vie, favorisant le rapprochement et l’échange, la découverte et les connaissances…'
 widget3:
   title: "Page Facebook"
   url: 'http://www.facebook.com/epnlabasevalence/'
