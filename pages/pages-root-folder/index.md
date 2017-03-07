@@ -13,8 +13,8 @@ widget1:
   image: widget-1-302x182.jpg
   text: 'La B@se est un Espace Public Numérique créé par l’association Cyber Emploi Drôme Ardèche et situé en centre-ville à Valence. Nous faisons aussi partie du réseau Cyberbase. Nous essayons de contribuer à la réduction de le « fracture numérique » en aidant les personnes les + éloignées de l’usage de ces technologies pour diverses raisons notamment financières, à se les approprier.'
 widget2:
-  title: "Espace Public Internet ?"
-  url: '/pages/Espace-Public-Internet/'
+  title: "Espace Public Numérique ?"
+  url: '/pages/Espace-Public-Numerique/'
   image: widget-2-302x182.jpg
   text: 'Les EPI (Espaces Publics Internet) sont vos espaces d’accès et de sensibilisation aux usages numériques. Initiez-vous aux outils informatiques, connectez-vous à Internet, découvrez les possibilités que vous offre le numérique, quels que soient vos besoins et envies. Les EPI, ce sont aussi des espaces de vie, favorisant le rapprochement et l’échange, la découverte et les connaissances…'
 widget3:
