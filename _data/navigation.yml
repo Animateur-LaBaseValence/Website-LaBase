@@ -2,8 +2,8 @@
   url: "/"
   side: left
 
-- title: "Notre EPI"
-  url: "/pages/Notre-EPI/"
+- title: "Notre EPN"
+  url: "/pages/Notre-EPN/"
   side: left
   dropdown:
   - title: "Espace Public Internet ?"
