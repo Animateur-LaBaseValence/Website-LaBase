@@ -8,8 +8,8 @@
   url: "/pages/Infos-Pratiques/"
   title: "Infos Pratiques"
 
-- name: Facebook
-   url: "http://www.facebook.com/epnlabasevalence/"
+- name: "Facebook"
+   url: "facebook.com/epnlabasevalence"
    title: "Page Facebook"
 
 #- name: "RSS"
