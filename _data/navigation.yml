@@ -6,8 +6,8 @@
   url: "/pages/Notre-EPN/"
   side: left
   dropdown:
-  - title: "Espace Public Internet ?"
-    url: "/pages/Espace-Public-Internet/"
+  - title: "Espace Public Numérique ?"
+    url: "/pages/Espace-Public-Numerique/"
   - title: "Dream-Team :-)"
     url: "/pages/Dream-Team/"
   - title: "La B@se - formations"
