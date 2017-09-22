@@ -2,6 +2,7 @@
 
 - formations gratuites pour les allocataires des minimas sociaux et les demandeurs d'emploi
 - formations possibles à domicile pour personne handicapée ou à mobilité réduite
+- organisme de formation professionnelle
 - 7 pc connectés en haut débit
 - 8 pc portables
 - réparation d'ordinateurs : devis gratuit, forfait main d'oeuvre 20 €
