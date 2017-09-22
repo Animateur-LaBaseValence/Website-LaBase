@@ -1,4 +1,4 @@
-La B@se est un Espace Public Numérique créé par l’association Cyber Emploi Drôme Ardèche et situé en centre-ville à Valence. Nous faisons aussi partie du réseau Cyberbase. Nous essayons de contribuer à la réduction de le « fracture numérique » en aidant les personnes les + éloignées de l’usage de ces technologies pour diverses raisons notamment financières, à se les approprier.
+La B@se est un Espace Public Numérique créé par l’association « La B@se, formation solidaire » et situé en centre-ville à Valence. Nous essayons de contribuer à la réduction de le « fracture numérique » en aidant les personnes les + éloignées de l’usage de ces technologies pour diverses raisons notamment financières, à se les approprier.
 
 Si vous souhaitez vous initier, vous perfectionner à l’informatique, à Internet et aux nouvelles technologies en général, tranquillement ou plus rapidement, n’hésitez pas à venir nous voir. Du débutant absolu, en difficulté avec ces nouveaux « instruments », à l’utilisateur plus expérimenté, un animateur spécialisé sera là pour vous informer et si besoin vous accompagner.
 
