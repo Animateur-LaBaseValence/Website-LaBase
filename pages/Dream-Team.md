@@ -2,7 +2,6 @@
 
 - M. Steve Chadwick
 - M. Loïc Bonati
-- M. Charlie Cortial
 
 **Le Responsable :**
 
